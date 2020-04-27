@@ -1,0 +1,3 @@
+INSERT INTO EVENTS VALUES (scsmbstgra, true, 5.0, 12345, APPLICATION_LOG);
+INSERT INTO EVENTS VALUES (scsmbstgrb, false, 3.0, null, null);
+INSERT INTO EVENTS VALUES (scsmbstgrc, true, 8.0, null, null);
